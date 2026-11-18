@@ -1,0 +1,217 @@
+"date","enumerator","supervisor","commune","village","planned_interviews","transport","road_condition","weather","call_mtn","call_moov","call_celtiis","internet_mtn","internet_moov","internet_celtiis","incident","incident_type","incident_reported"
+"2026-09-07","ENUM01","SUP1","Abomey-Calavi","V01",6,"On foot","Rather good","Strong wind","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-07","ENUM02","SUP1","Abomey-Calavi","V01",6,"Motorbike","Rather good","Strong wind","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-07","ENUM03","SUP1","Abomey-Calavi","V01",6,"Motorbike","Rather good","Strong wind","Good","Bad","Bad","Bad","Bad","Bad","No",NA,NA
+"2026-09-08","ENUM01","SUP1","Abomey-Calavi","V01",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-08","ENUM02","SUP1","Abomey-Calavi","V01",6,"Motorbike","Rather good","Strong heat","Bad","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-08","ENUM03","SUP1","Abomey-Calavi","V01",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-09","ENUM01","SUP1","Abomey-Calavi","V01",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-09","ENUM02","SUP1","Abomey-Calavi","V01",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-09","ENUM03","SUP1","Abomey-Calavi","V01",6,"Motorbike","Rather good","Strong heat","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-10","ENUM01","SUP1","Abomey-Calavi","V02",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-10","ENUM02","SUP1","Abomey-Calavi","V02",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-10","ENUM03","SUP1","Abomey-Calavi","V02",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-11","ENUM01","SUP1","Abomey-Calavi","V02",6,"On foot","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-11","ENUM02","SUP1","Abomey-Calavi","V02",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-11","ENUM03","SUP1","Abomey-Calavi","V02",6,"Motorbike","Very good","Normal","Bad","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-12","ENUM01","SUP1","Abomey-Calavi","V03",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-12","ENUM02","SUP1","Abomey-Calavi","V03",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-12","ENUM03","SUP1","Abomey-Calavi","V03",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-14","ENUM01","SUP1","Abomey-Calavi","V03",6,"On foot","Very bad","Rain","Good","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-14","ENUM02","SUP1","Abomey-Calavi","V03",6,"Motorbike","Very bad","Rain","Good","Bad","Good","Bad","Good","Good","No",NA,NA
+"2026-09-14","ENUM03","SUP1","Abomey-Calavi","V03",6,"Motorbike","Very bad","Rain","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-15","ENUM01","SUP1","Abomey-Calavi","V03",6,"On foot","Rather bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-15","ENUM02","SUP1","Abomey-Calavi","V03",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-15","ENUM03","SUP1","Abomey-Calavi","V03",6,"Motorbike","Rather bad","Normal","Good","Bad","Bad","Good","Good","Good","No",NA,NA
+"2026-09-16","ENUM01","SUP1","Abomey-Calavi","V03",6,"Motorbike","Rather bad","Strong heat","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-16","ENUM02","SUP1","Abomey-Calavi","V03",6,"Motorbike","Rather bad","Strong heat","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-16","ENUM03","SUP1","Abomey-Calavi","V03",6,"Motorbike","Rather bad","Strong heat","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-17","ENUM01","SUP1","Abomey-Calavi","V04",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-17","ENUM02","SUP1","Abomey-Calavi","V04",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-17","ENUM03","SUP1","Abomey-Calavi","V04",6,"On foot","Rather bad","Normal","Good","Bad","Good","Bad","Bad","Good","No",NA,NA
+"2026-09-18","ENUM01","SUP1","Abomey-Calavi","V04",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-18","ENUM02","SUP1","Abomey-Calavi","V04",6,"Car","Rather bad","Normal","Good","Good","Bad","Good","Good","Good","No",NA,NA
+"2026-09-18","ENUM03","SUP1","Abomey-Calavi","V04",6,"Motorbike","Rather bad","Normal","Good","Good","Bad","Good","Bad","Good","No",NA,NA
+"2026-09-19","ENUM01","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather bad","Rain","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-19","ENUM02","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather bad","Rain","Good","Good","Bad","Good","Good","Good","No",NA,NA
+"2026-09-19","ENUM03","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather bad","Rain","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM01","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM02","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather good","Normal","Bad","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM03","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-22","ENUM01","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather good","Normal","Good","Bad","Bad","Bad","Good","Good","No",NA,NA
+"2026-09-22","ENUM02","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-22","ENUM03","SUP1","Abomey-Calavi","V05",6,"Motorbike","Rather good","Normal","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-23","ENUM01","SUP1","Ouidah","V06",6,"Motorbike","Rather good","Normal","Good","Good","Bad","Bad","Good","Good","No",NA,NA
+"2026-09-23","ENUM02","SUP1","Ouidah","V06",6,"On foot","Rather good","Normal","Good","Good","Bad","Good","Good","Bad","No",NA,NA
+"2026-09-23","ENUM03","SUP1","Ouidah","V06",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-24","ENUM01","SUP1","Ouidah","V06",6,"Car","Rather good","Normal","Good","Good","Bad","Bad","Good","Bad","No",NA,NA
+"2026-09-24","ENUM02","SUP1","Ouidah","V06",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-24","ENUM03","SUP1","Ouidah","V06",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-25","ENUM01","SUP1","Ouidah","V06",6,"Car","Rather good","Strong heat","Good","Good","Bad","Good","Good","Bad","No",NA,NA
+"2026-09-25","ENUM02","SUP1","Ouidah","V06",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-25","ENUM03","SUP1","Ouidah","V06",6,"Motorbike","Rather good","Strong heat","Good","Bad","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-26","ENUM01","SUP1","Ouidah","V07",6,"Motorbike","Rather bad","Normal","Good","Good","Bad","Good","Good","Bad","No",NA,NA
+"2026-09-26","ENUM02","SUP1","Ouidah","V07",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-26","ENUM03","SUP1","Ouidah","V07",6,"Car","Rather bad","Normal","Bad","Good","Bad","Bad","Good","Bad","No",NA,NA
+"2026-09-07","ENUM04","SUP2","Ouidah","V09",6,"Motorbike","Rather bad","Normal","Good","Good","Bad","Good","Bad","Bad","No",NA,NA
+"2026-09-07","ENUM05","SUP2","Ouidah","V09",6,"Motorbike","Rather bad","Normal","Good","Good","Bad","Bad","Good","Bad","No",NA,NA
+"2026-09-07","ENUM06","SUP2","Ouidah","V09",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-08","ENUM04","SUP2","Ouidah","V09",6,"Motorbike","Rather bad","Normal","Good","Bad","Bad","Good","Good","Good","No",NA,NA
+"2026-09-08","ENUM05","SUP2","Ouidah","V09",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-08","ENUM06","SUP2","Ouidah","V09",6,"Motorbike","Rather bad","Normal","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-09","ENUM04","SUP2","Ouidah","V09",6,"Motorbike","Rather bad","Normal","Good","Bad","Good","Bad","Good","Good","No",NA,NA
+"2026-09-09","ENUM05","SUP2","Ouidah","V09",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-09","ENUM06","SUP2","Ouidah","V09",6,"On foot","Rather bad","Normal","Good","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-10","ENUM04","SUP2","Ouidah","V10",6,"Motorbike","Very bad","Rain","Good","Bad","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-10","ENUM05","SUP2","Ouidah","V10",6,"Motorbike","Very bad","Rain","Bad","Good","Bad","Good","Bad","Bad","No",NA,NA
+"2026-09-10","ENUM06","SUP2","Ouidah","V10",6,"Motorbike","Very bad","Rain","Good","Bad","Good","Good","Good","Bad","No",NA,NA
+"2026-09-11","ENUM04","SUP2","Ouidah","V10",6,"Motorbike","Rather bad","Normal","Good","Good","Bad","Bad","Good","Bad","No",NA,NA
+"2026-09-11","ENUM05","SUP2","Ouidah","V10",6,"On foot","Rather bad","Normal","Good","Good","Bad","Good","Good","Bad","No",NA,NA
+"2026-09-11","ENUM06","SUP2","Ouidah","V10",6,"Motorbike","Rather bad","Normal","Good","Bad","Bad","Good","Good","Good","No",NA,NA
+"2026-09-12","ENUM04","SUP2","Ouidah","V10",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-12","ENUM05","SUP2","Ouidah","V10",6,"Motorbike","Rather bad","Normal","Good","Good","Bad","Good","Bad","Bad","No",NA,NA
+"2026-09-12","ENUM06","SUP2","Ouidah","V10",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-14","ENUM04","SUP2","Bohicon","V11",6,"Motorbike","Very good","Normal","Good","Bad","Good","Bad","Good","Good","No",NA,NA
+"2026-09-14","ENUM05","SUP2","Bohicon","V11",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-14","ENUM06","SUP2","Bohicon","V11",6,"On foot","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-15","ENUM04","SUP2","Bohicon","V11",6,"Motorbike","Very good","Normal","Bad","Good","Good","Good","Bad","Good","Yes","Tablet failure","Yes"
+"2026-09-15","ENUM05","SUP2","Bohicon","V11",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-15","ENUM06","SUP2","Bohicon","V11",6,"Car","Very good","Normal","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-16","ENUM04","SUP2","Bohicon","V11",6,"Car","Very good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-16","ENUM05","SUP2","Bohicon","V11",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-16","ENUM06","SUP2","Bohicon","V11",6,"On foot","Very good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-17","ENUM04","SUP2","Bohicon","V12",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-17","ENUM05","SUP2","Bohicon","V12",6,"Motorbike","Rather good","Normal","Good","Good","Good","Bad","Good","Bad","No",NA,NA
+"2026-09-17","ENUM06","SUP2","Bohicon","V12",6,"Motorbike","Rather good","Normal","Good","Bad","Bad","Good","Good","Bad","No",NA,NA
+"2026-09-18","ENUM04","SUP2","Bohicon","V12",6,"Motorbike","Rather good","Normal","Good","Bad","Good","Bad","Good","Bad","No",NA,NA
+"2026-09-18","ENUM05","SUP2","Bohicon","V12",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-18","ENUM06","SUP2","Bohicon","V12",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-19","ENUM04","SUP2","Bohicon","V13",6,"Motorbike","Very good","Strong heat","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-19","ENUM05","SUP2","Bohicon","V13",6,"Motorbike","Very good","Strong heat","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-19","ENUM06","SUP2","Bohicon","V13",6,"Motorbike","Very good","Strong heat","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM04","SUP2","Bohicon","V13",6,"Car","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM05","SUP2","Bohicon","V13",6,"Motorbike","Very good","Normal","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-21","ENUM06","SUP2","Bohicon","V13",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-22","ENUM04","SUP2","Bohicon","V13",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-22","ENUM05","SUP2","Bohicon","V13",6,"Car","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-22","ENUM06","SUP2","Bohicon","V13",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-23","ENUM04","SUP2","Bohicon","V14",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-23","ENUM05","SUP2","Bohicon","V14",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-23","ENUM06","SUP2","Bohicon","V14",6,"Motorbike","Very good","Normal","Good","Bad","Good","Good","Good","Good","Yes","Minor road accident","No"
+"2026-09-24","ENUM04","SUP2","Bohicon","V14",6,"Motorbike","Very good","Strong heat","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-24","ENUM05","SUP2","Bohicon","V14",6,"Motorbike","Very good","Strong heat","Good","Good","Bad","Good","Good","Good","Yes","Minor road accident","Yes"
+"2026-09-24","ENUM06","SUP2","Bohicon","V14",6,"Motorbike","Very good","Strong heat","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-25","ENUM04","SUP2","Bohicon","V15",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-25","ENUM05","SUP2","Bohicon","V15",6,"Motorbike","Rather good","Normal","Good","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-25","ENUM06","SUP2","Bohicon","V15",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-26","ENUM04","SUP2","Bohicon","V15",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-26","ENUM05","SUP2","Bohicon","V15",6,"Motorbike","Rather good","Normal","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-26","ENUM06","SUP2","Bohicon","V15",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-07","ENUM07","SUP3","Abomey","V17",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-07","ENUM08","SUP3","Abomey","V17",6,"Car","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-07","ENUM09","SUP3","Abomey","V17",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-08","ENUM07","SUP3","Abomey","V17",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-08","ENUM08","SUP3","Abomey","V17",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-08","ENUM09","SUP3","Abomey","V17",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-09","ENUM07","SUP3","Abomey","V17",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Bad","Good","Bad","No",NA,NA
+"2026-09-09","ENUM08","SUP3","Abomey","V17",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-09","ENUM09","SUP3","Abomey","V17",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-10","ENUM07","SUP3","Abomey","V18",6,"Motorbike","Rather bad","Normal","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-10","ENUM08","SUP3","Abomey","V18",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-10","ENUM09","SUP3","Abomey","V18",6,"Car","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-11","ENUM07","SUP3","Abomey","V18",6,"Car","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-11","ENUM08","SUP3","Abomey","V18",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-11","ENUM09","SUP3","Abomey","V18",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Good","Good","Yes","Security concern","No"
+"2026-09-12","ENUM07","SUP3","Abomey","V18",6,"Car","Rather bad","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-12","ENUM08","SUP3","Abomey","V18",6,"Motorbike","Rather bad","Normal","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-12","ENUM09","SUP3","Abomey","V18",6,"Motorbike","Rather bad","Normal","Bad","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-14","ENUM07","SUP3","Abomey","V19",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-14","ENUM08","SUP3","Abomey","V19",6,"Motorbike","Rather good","Normal","Good","Good","Bad","Good","Good","Good","No",NA,NA
+"2026-09-14","ENUM09","SUP3","Abomey","V19",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-15","ENUM07","SUP3","Abomey","V19",6,"Car","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-15","ENUM08","SUP3","Abomey","V19",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-15","ENUM09","SUP3","Abomey","V19",6,"On foot","Rather good","Normal","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-16","ENUM07","SUP3","Abomey","V19",6,"Motorbike","Rather bad","Rain","Bad","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-16","ENUM08","SUP3","Abomey","V19",6,"Motorbike","Rather bad","Rain","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-16","ENUM09","SUP3","Abomey","V19",6,"Motorbike","Rather bad","Rain","Good","Good","Good","Bad","Bad","Good","Yes","Motorbike breakdown","Yes"
+"2026-09-17","ENUM07","SUP3","Abomey","V19",6,"Motorbike","Rather good","Normal","Good","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-17","ENUM08","SUP3","Abomey","V19",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-17","ENUM09","SUP3","Abomey","V19",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-18","ENUM07","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Bad","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-18","ENUM08","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-18","ENUM09","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Good","Good","Bad","Good","Good","Bad","No",NA,NA
+"2026-09-19","ENUM07","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Good","Good","Bad","Good","Bad","Good","No",NA,NA
+"2026-09-19","ENUM08","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-19","ENUM09","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM07","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM08","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Good","Good","Bad","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM09","SUP3","Abomey","V20",6,"Motorbike","Very good","Normal","Good","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-22","ENUM07","SUP3","Parakou","V21",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-22","ENUM08","SUP3","Parakou","V21",6,"Motorbike","Rather good","Normal","Bad","Good","Bad","Good","Good","Good","No",NA,NA
+"2026-09-22","ENUM09","SUP3","Parakou","V21",6,"Motorbike","Rather good","Normal","Bad","Bad","Good","Good","Good","Bad","No",NA,NA
+"2026-09-23","ENUM07","SUP3","Parakou","V21",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-23","ENUM08","SUP3","Parakou","V21",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-23","ENUM09","SUP3","Parakou","V21",6,"Car","Rather good","Strong heat","Good","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-24","ENUM07","SUP3","Parakou","V22",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-24","ENUM08","SUP3","Parakou","V22",6,"Motorbike","Very bad","Normal","Bad","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-24","ENUM09","SUP3","Parakou","V22",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-25","ENUM07","SUP3","Parakou","V22",6,"Motorbike","Very bad","Normal","Bad","Good","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-25","ENUM08","SUP3","Parakou","V22",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-25","ENUM09","SUP3","Parakou","V22",6,"Car","Very bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-26","ENUM07","SUP3","Parakou","V22",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-26","ENUM08","SUP3","Parakou","V22",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-26","ENUM09","SUP3","Parakou","V22",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-07","ENUM10","SUP4","Parakou","V24",6,"Motorbike","Very bad","Strong wind","Good","Good","Good","Bad","Bad","Good","No",NA,NA
+"2026-09-07","ENUM11","SUP4","Parakou","V24",6,"Motorbike","Very bad","Strong wind","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-07","ENUM12","SUP4","Parakou","V24",6,"Motorbike","Very bad","Strong wind","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-08","ENUM10","SUP4","Parakou","V24",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-08","ENUM11","SUP4","Parakou","V24",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Bad","Good","Yes","Motorbike breakdown","Yes"
+"2026-09-08","ENUM12","SUP4","Parakou","V24",6,"Motorbike","Very bad","Normal","Good","Good","Bad","Good","Good","Good","Yes","Motorbike breakdown","Yes"
+"2026-09-09","ENUM10","SUP4","Parakou","V24",6,"Motorbike","Very bad","Normal","Good","Good","Bad","Good","Good","Bad","No",NA,NA
+"2026-09-09","ENUM11","SUP4","Parakou","V24",6,"On foot","Very bad","Normal","Good","Good","Bad","Good","Good","Good","No",NA,NA
+"2026-09-09","ENUM12","SUP4","Parakou","V24",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-10","ENUM10","SUP4","Parakou","V25",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-10","ENUM11","SUP4","Parakou","V25",6,"Motorbike","Rather good","Normal","Bad","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-10","ENUM12","SUP4","Parakou","V25",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-11","ENUM10","SUP4","Parakou","V25",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-11","ENUM11","SUP4","Parakou","V25",6,"Motorbike","Rather good","Strong heat","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-11","ENUM12","SUP4","Parakou","V25",6,"Motorbike","Rather good","Strong heat","Bad","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-12","ENUM10","SUP4","Parakou","V25",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-12","ENUM11","SUP4","Parakou","V25",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-12","ENUM12","SUP4","Parakou","V25",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-14","ENUM10","SUP4","N'Dali","V26",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-14","ENUM11","SUP4","N'Dali","V26",6,"On foot","Very bad","Normal","Good","Good","Good","Bad","Bad","Good","No",NA,NA
+"2026-09-14","ENUM12","SUP4","N'Dali","V26",6,"Motorbike","Very bad","Normal","Good","Bad","Good","Bad","Bad","Good","No",NA,NA
+"2026-09-15","ENUM10","SUP4","N'Dali","V26",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-15","ENUM11","SUP4","N'Dali","V26",6,"Motorbike","Very bad","Normal","Good","Bad","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-15","ENUM12","SUP4","N'Dali","V26",6,"Motorbike","Very bad","Normal","Good","Bad","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-16","ENUM10","SUP4","N'Dali","V26",6,"Motorbike","Very bad","Fog","Good","Bad","Good","Bad","Bad","Bad","No",NA,NA
+"2026-09-16","ENUM11","SUP4","N'Dali","V26",6,"Motorbike","Very bad","Fog","Good","Bad","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-16","ENUM12","SUP4","N'Dali","V26",6,"Motorbike","Very bad","Fog","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-17","ENUM10","SUP4","N'Dali","V27",6,"On foot","Rather bad","Normal","Good","Bad","Good","Good","Good","Good","No",NA,NA
+"2026-09-17","ENUM11","SUP4","N'Dali","V27",6,"Motorbike","Rather bad","Normal","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-17","ENUM12","SUP4","N'Dali","V27",6,"Motorbike","Rather bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-18","ENUM10","SUP4","N'Dali","V27",6,"Motorbike","Rather bad","Strong heat","Good","Bad","Good","Good","Good","Bad","No",NA,NA
+"2026-09-18","ENUM11","SUP4","N'Dali","V27",6,"Car","Rather bad","Strong heat","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-18","ENUM12","SUP4","N'Dali","V27",6,"On foot","Rather bad","Strong heat","Good","Good","Good","Good","Bad","Good","Yes","Motorbike breakdown","No"
+"2026-09-19","ENUM10","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Strong heat","Good","Good","Bad","Good","Bad","Bad","No",NA,NA
+"2026-09-19","ENUM11","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Strong heat","Good","Bad","Good","Bad","Bad","Good","No",NA,NA
+"2026-09-19","ENUM12","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Strong heat","Bad","Good","Good","Good","Good","Good","No",NA,NA
+"2026-09-21","ENUM10","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Normal","Good","Bad","Good","Good","Bad","Good","Yes","Motorbike breakdown","Yes"
+"2026-09-21","ENUM11","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Normal","Good","Bad","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-21","ENUM12","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
+"2026-09-22","ENUM10","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Strong heat","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-22","ENUM11","SUP4","N'Dali","V28",6,"Car","Very bad","Strong heat","Good","Good","Good","Bad","Good","Good","No",NA,NA
+"2026-09-22","ENUM12","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Strong heat","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-23","ENUM10","SUP4","N'Dali","V28",6,"Car","Very bad","Rain","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-23","ENUM11","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Rain","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-23","ENUM12","SUP4","N'Dali","V28",6,"Motorbike","Very bad","Rain","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-24","ENUM10","SUP4","N'Dali","V29",6,"Motorbike","Rather good","Normal","Good","Bad","Bad","Good","Bad","Good","No",NA,NA
+"2026-09-24","ENUM11","SUP4","N'Dali","V29",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Good","Bad","No",NA,NA
+"2026-09-24","ENUM12","SUP4","N'Dali","V29",6,"Motorbike","Rather good","Normal","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-25","ENUM10","SUP4","N'Dali","V29",6,"Motorbike","Rather good","Normal","Good","Bad","Good","Good","Good","Bad","No",NA,NA
+"2026-09-25","ENUM11","SUP4","N'Dali","V29",6,"Car","Rather good","Normal","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-25","ENUM12","SUP4","N'Dali","V29",6,"Motorbike","Rather good","Normal","Good","Good","Bad","Good","Bad","Good","No",NA,NA
+"2026-09-26","ENUM10","SUP4","N'Dali","V29",6,"On foot","Rather good","Normal","Good","Bad","Good","Good","Bad","Good","No",NA,NA
+"2026-09-26","ENUM11","SUP4","N'Dali","V29",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Bad","Bad","No",NA,NA
+"2026-09-26","ENUM12","SUP4","N'Dali","V29",6,"Motorbike","Rather good","Normal","Good","Good","Good","Good","Bad","Good","No",NA,NA
